@@ -32,7 +32,7 @@ This desktop application allows users to manage submissions through two main fun
 
 - Windows Desktop App created with Visual Studio (Visual Basic).
 - Visual Studio is used for development.
-- The application interacts with a backend API (not detailed here) to fetch and submit data.
+- The application interacts with a backend API (https://github.com/akanksha2305/slidelydesktopbackend) to fetch and submit data.
 
 ## Usage
 
